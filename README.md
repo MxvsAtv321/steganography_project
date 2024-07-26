@@ -2,7 +2,9 @@
 
 # Steganography Project
 
-This project demonstrates how to use steganography to embed one image within another image using Python.
+This project focuses on
+implementing a steganography tool using Python, which can encode and decode
+hidden data (including text, files, and images) within cover images.
 
 ## Primary Objectives
 
